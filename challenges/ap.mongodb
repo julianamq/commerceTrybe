@@ -1,0 +1,2 @@
+use ("commerce")
+db.produtos.find().sort({ qty: -1 }).limit(1).project({ name: 1, qty: 1 });
