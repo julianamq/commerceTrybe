@@ -1,13 +1,3 @@
-# :construction: README customizado em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto no qual você pode customizar e reutilizar todas as vezes que for executar o trybe-publisher.
-
-Para deixá-lo com a sua cara, basta alterar o seguinte arquivo da sua máquina: ~/.student-repo-publisher/custom/_NEW_README.md
-
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+<h1>Banco de Dados Commerce do McDonald's</h1>
+Descrição
+Este projeto consiste em um banco de dados fictício chamado "Commerce" que contém informações sobre o cardápio do McDonald's, incluindo ingredientes, valores nutricionais e dados fictícios de vendas. O objetivo deste banco de dados é servir como um exemplo de como uma aplicação de fast food pode armazenar informações relacionadas ao seu cardápio e vendas.
